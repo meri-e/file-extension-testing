@@ -27,7 +27,7 @@ Different types of Web Page File Format include: **.html, .asp, .css, .xps.**
 
 
 
-
+---------------------
 **Text File Formats**
 .txt	Plain Text	The most basic text file format, containing only ASCII characters and carriage returns to separate lines.
 .rtf	Rich Text Format	A more advanced text file format that allows basic formatting like bold, italics, and font styles.
