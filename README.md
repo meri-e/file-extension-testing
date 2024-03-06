@@ -5,25 +5,25 @@
 Explore a wide range of common file formats and learn how to work with them effectively.
 
 Text: This type of file contains only text without any formatting and can be opened with any text editor.
-Different types of text formats include: .doc, .docx, .rtf, .pdf, .wpd
+Different types of text formats include: **.doc, .docx, .rtf, .pdf, .wpd**
 
 Image: This file type includes binary information about images and defines how the image will be stored and compressed.
-Different types of Image File Format include: .JPEG, .PNG, .GIF, .HEIF
+Different types of Image File Format include: **.JPEG, .PNG, .GIF, .HEIF**
 
 Audio: This type of file format stores audio data. It stores raw data in an encoded format and uses codec to perform compression and decompression.
-Different types of Audio file formats include .aac, .mp3, .wav
+Different types of Audio file formats include **.aac, .mp3, .wav**
 
 Video: This type of file format contains digital video data. It performs lossy compression to store video data where audio and video are separately encoded and stored.
-Different types of Video File Formats include: .amv, .mpeg, .flv, .avi
+Different types of Video File Formats include: **.amv, .mpeg, .flv, .avi**
 
 Program: These file formats store codes that can be run on the computer through compiling or interpreting.
-Different types of Programming File Formats include: .c, .java, .py, .js
+Different types of Programming File Formats include: **.c, .java, .py, .js**
 
 Compressed/Archive: These files store data in a compressed format on the computer and can be used to easily transport data between computers. These files need to be decompressed before use.
-Different types of Compressed File Formats include: .iso, .rar, .tar, .7z
+Different types of Compressed File Formats include: **.iso, .rar, .tar, .7z**
 
 Web page: These files include information related to the website, web pages, and server. these generally include programming scripts for static or dynamic web pages. 
-Different types of Web Page File Format include: .html, .asp, .css, .xps.
+Different types of Web Page File Format include: **.html, .asp, .css, .xps.**
 
 
 
